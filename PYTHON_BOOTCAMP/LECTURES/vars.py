@@ -1,14 +1,18 @@
-x = 5
-y = 10
-z = x * y
-z = x ** y
-print(z)
+# x = 5
+# y = 10
+# z = x * y
+# z = x ** y
+# print(z)
 
-a = 200
-b = 100
-print(a + b)
+# a = 200
+# b = 100
+# print(a + b)
 
-radius = 2.5
-pi = 3.14159
-circle = pi * radius ** 2
-print(circle)
+# radius = 2.5
+# pi = 3.14159
+# circle = pi * radius ** 2
+# print(circle)
+
+x = 10
+x += 1
+print(x)
